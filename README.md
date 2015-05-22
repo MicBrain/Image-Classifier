@@ -12,4 +12,5 @@ We have a large number of 32x32 images and this project has to find out whether 
    
    In this project, I already have a pre-trained CNN that can classify 32x32 images into 10 categories (such as dog, cat, car or plane). Using this CNN, I developed an application that takes a large set (i.e., 1000's) of images as input and finds those that contain cats.
 
+### How do Convolutional Neural Networks Work?
 
